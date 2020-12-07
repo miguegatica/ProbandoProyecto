@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo "HOLA RECORDANDO"
+         echo "HOLA RECORDANDO COMO USAR GIT"
         ?>
     </body>
 </html>
