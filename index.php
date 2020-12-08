@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo "HOLA RECORDANDO COMO USAR GIT... SOY USUARIO MIGUEL en 2020"
+         echo "HOLA RECORDANDO COMO USAR GIT... SOY USUARIO MIGUEL en 2020 ..."
         ?>
     </body>
 </html>
