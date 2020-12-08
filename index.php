@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Titulo pagina</title>
+        <title>Titulo pagina actualizada</title>
     </head>
     <body>
         <?php
