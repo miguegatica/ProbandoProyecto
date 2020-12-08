@@ -7,8 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Titulo pagina actualizada2</title>
-    </head>
+        <title>Voy hacer un merge de este branch al master</title>
+        </head>
     <body>
         <?php
          echo "QUIERO VER UN SOLO BRANCH MIGUEL"
