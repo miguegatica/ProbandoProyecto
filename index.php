@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo "CAMBIE TODO. A EMPEZAR DE NUEVO"
+         echo "QUIERO VER UN SOLO BRANCH MIGUEL"
         ?>
     </body>
 </html>
